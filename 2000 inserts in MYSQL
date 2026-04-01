@@ -1,4 +1,4 @@
-MYSQL CODE with 2000 inserts
+MYSQL CODE with 2000 inserts in MYSQL
 
 INSERT INTO `booking` (`Date`, `Time`, `Booking_ID`, `Booking_Status`, `Customer_ID`, `Vehicle_Type`, `Pickup_Location`, `Drop_Location`, `V_TAT`, `C_TAT`, `Canceled_Rides_by_Customer`, `Canceled_Rides_by_Driver`, `Incomplete_Rides`, `Incomplete_Rides_Reason`, `Booking_Value`, `Payment_Method`, `Ride_Distance`, `Driver_Ratings`, `Customer_Rating`) VALUES
   ('2024-07-26', '14:00:00', 'CNR7153255142', 'Canceled by Driver', 'CID713523', 'Prime Sedan', 'Tumkur Road', 'RT Nagar', NULL, NULL, NULL, 'Personal & Car related issue', NULL, NULL, '444', NULL, '0', NULL, NULL),
